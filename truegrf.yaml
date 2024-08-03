@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f1eca826
 license: GPL-2.0
+name: babo
 type: industry
+url: https://github.com/actic-orb/babo
 version: 6
